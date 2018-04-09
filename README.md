@@ -1,5 +1,5 @@
 # Image-Retrieval
-Implementation of simple content-based image retrieval
+Implementation of simple content-based image retrieval algorithm
 
 ## Dependencies
 * [Tensorflow](https://www.tensorflow.org/)
